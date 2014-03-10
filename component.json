@@ -17,6 +17,7 @@
     "src/runtimes/base.coffee",
     "src/runtimes/iframe.coffee",
     "src/runtimes/websocket.coffee",
+    "src/runtimes/webrtc.coffee",
     "index.js"
   ],
   "json": [
